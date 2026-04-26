@@ -42,3 +42,10 @@ ChatDB/
 ├── test_db.py
 ├── .gitignore
 └── README.md
+
+
+## Demo
+
+Below is a screenshot of ChatDB generating a SQL query from a natural language question and displaying the query results in the Flask web interface.
+
+![ChatDB Demo](assets/chatdb-demo.png)
